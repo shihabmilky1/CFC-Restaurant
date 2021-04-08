@@ -1,0 +1,12 @@
+#foodMenu{
+    padding: 20px 0px;
+}
+#foodMenu-nav a{
+    color: black !important;
+    font-weight: bold!important;    
+}
+#foodMenu .active{
+    color: #7AC948 !important;
+    font-weight: bold !important;
+    border-bottom: 2px solid #7AC948;
+}

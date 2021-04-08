@@ -1,0 +1,13 @@
+.btn-cart{
+    background:  #7AC948;
+    color: #fff;
+    border: #7AC948;
+}
+.btn-cart:hover{
+    color: #fff;
+    background: #79c948d5;
+}
+.my-spinner{
+    color: #7ac948 !important;
+
+}

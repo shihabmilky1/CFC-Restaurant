@@ -1,0 +1,17 @@
+button.navbar-toggler.navbar-light:focus {
+    box-shadow: none;
+}
+#main-nav a {
+    font-family: 'Recursive', sans-serif;
+    color: #666;
+    font-weight: 500;
+
+}
+body{
+    font-family: 'Recursive', sans-serif;
+}
+button.btn.search-button {
+    background: #7AC948 !important;
+    border: 1px solid #7AC948 !important;
+    color: #fff;
+}
